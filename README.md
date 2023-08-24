@@ -7,4 +7,4 @@
 - 👯 I’m looking for a Data Analyst role with companies that need my data analytics skills 
 - 💬 Let's discuss data
 - 📫 How to reach me: [Twitter](https://twitter.com/ratafar13) and [LinkedIn](https://www.linkedin.com/in/rukayatrauf/)
-- ⚡ I like uncovering insights from datasets
+- ⚡ Fun fact: I play Table Tennis every day 😄
