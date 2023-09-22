@@ -1,6 +1,8 @@
-### Hi there welcome to my GitHub page👋
+### <ins>Hi there welcome to my GitHub page👋</ins> <font color="red">Hi there welcome to my GitHub page👋</font>
 
-### My name is Rukayat Rauf
+<p style="color:blue">Make this text blue.</p>
+
+### <ins>My name is Rukayat Rauf</ins>.
 
 - 🔭 I’m a self-taught Data Analyst proficient in Excel, Power BI/Tableau, SQL, Python, R, and Google Sheets
 - 🌱 I’m upskilling my Data Analytics skills
