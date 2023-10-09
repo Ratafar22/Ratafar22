@@ -7,7 +7,7 @@
 - 👯 I’m looking for Data Analytics and Business Intelligence roles
 - 💬 Let's discuss data
 - 📫 How to reach me: [Twitter](https://twitter.com/ratafar13) and [LinkedIn](https://www.linkedin.com/in/rukayatrauf/)
-- ⚡ Fun fact: I play Table Tennis every day 😄
+- ⚡ Fun fact: I love playing Table Tennis 😄
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rukayatrauf/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@raufrukayat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ratafar13) 
@@ -18,6 +18,8 @@
 - Microsoft Excel
 - Power BI
 - Tableau
+- Bigquery
+- Snowflake
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ratafar22&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ratafar22&theme=dark&hide_border=true)<br/>
