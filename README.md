@@ -7,6 +7,7 @@
 - 👯 I’m looking for Data Analytics and Business Intelligence roles (Internship, Freelancing, Remote and Permanent roles)
 - 💬 Let's discuss data
 - 📫 How to reach me: [Twitter](https://twitter.com/ratafar13) and [LinkedIn](https://www.linkedin.com/in/rukayatrauf/)
+- 💻 Portfolio website: (https://ratafar22.github.io/Rukayat.github.io/)
 - ⚡ Fun fact: I love playing Table Tennis 😄
 
 ### 🌐 Socials:
